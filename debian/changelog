@@ -1,3 +1,11 @@
+debathena-moira-gui (1.4-0debathena1) UNRELEASED; urgency=low
+
+  * Make moira-gui non-native
+  * Add setup.py
+  * Release 1.4
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sat, 08 Mar 2014 01:43:10 -0500
+
 debathena-moira-gui (1.3) unstable; urgency=low
 
   * Fail if we can't auth to moira.

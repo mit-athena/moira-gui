@@ -1,9 +1,9 @@
 Source: debathena-moira-gui
 Section: debathena/gnome
 Priority: extra
-Build-Depends: cdbs, debhelper
+Build-Depends: debhelper (>= 7), python-support
 Maintainer: Debathena Project <debathena@mit.edu>
-Standards-Version: 3.8.4 
+Standards-Version: 3.9.3
 
 Package: debathena-moira-gui
 Architecture: all
